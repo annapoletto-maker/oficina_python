@@ -23,9 +23,6 @@ O objetivo deste site é servir como um hub central de conteúdo para a Oficina 
 ## 📂 Estrutura do Repositório
 
 ```text
-oficina_python/
 │
-├── index.html        # Página principal do site
-├── css/             # Arquivos de estilo (se houver)
-├── js/              # Scripts em JavaScript (se houver)
-└── assets/          # Imagens e recursos visuais
+├── README.md         # Documentação do projeto
+└── index.html        # Página principal do site
